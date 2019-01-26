@@ -181,6 +181,7 @@ header.masthead {
   height: 50%;
 }
 
+
 header.masthead hr {
   margin-top: 30px;
   margin-bottom: 30px;
@@ -198,6 +199,9 @@ header.masthead p {
   header.masthead p {
     font-size: 1.15rem;
   }
+}
+header.qwerty{
+  text-align: left;
 }
 
 @media (min-width: 992px) {
